@@ -1,0 +1,15 @@
+D:\C#\buttonClick\buttonClick\bin\Debug\buttonClick.exe.config
+D:\C#\buttonClick\buttonClick\bin\Debug\buttonClick.exe
+D:\C#\buttonClick\buttonClick\bin\Debug\buttonClick.pdb
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.csprojAssemblyReference.cache
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.Form1.resources
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.Properties.Resources.resources
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.csproj.GenerateResource.cache
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.csproj.CoreCompileInputs.cache
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.exe
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.pdb
+D:\C#\buttonClick\buttonClick\bin\Debug\Interop.WMPLib.dll
+D:\C#\buttonClick\buttonClick\bin\Debug\AxInterop.WMPLib.dll
+D:\C#\buttonClick\buttonClick\obj\Debug\Interop.WMPLib.dll
+D:\C#\buttonClick\buttonClick\obj\Debug\AxInterop.WMPLib.dll
+D:\C#\buttonClick\buttonClick\obj\Debug\buttonClick.csproj.ResolveComReference.cache
